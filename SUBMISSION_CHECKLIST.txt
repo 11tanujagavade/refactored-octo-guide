@@ -1,0 +1,8 @@
+Submission checklist
+1. scanner.py — Code File
+2. requirements.txt — Requirements File
+3. project_report.pdf — Project Report
+4. README.md — README File
+5. GitHub Repository — Create a public repository and upload the four files; paste its URL into the form.
+
+Before submitting: run and test the code, personalize the report with your name/college/program details, and make sure the project requirements allow AI-assisted work.
